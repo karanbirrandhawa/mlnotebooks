@@ -34,7 +34,7 @@ This is a statistical approach that uses Bayes theorem to get predictions from d
 **[Naive Bayes Classifier](Bayesian/notebooks/naive_bayesian_classifier.ipynb)**
 
 - Probablistic classifier. Operates under the assumption that features are independent. 
-- Several different varieties: gaussian, multinomial, binomial.
+- Several variations: gaussian, multinomial, binomial.
 
 **Relevant Vector Machine**
 
