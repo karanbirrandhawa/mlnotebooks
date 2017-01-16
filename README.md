@@ -27,6 +27,27 @@ Neural networks
 
 **Restricted Boltzmann Machine**
 
+### Bayesian Inference and Networks
+
+This is a statistical approach that uses Bayes theorem to get predictions from data. 
+
+**[Naive Bayes Classifier](Bayesian/notebooks/naive_bayesian_classifier.ipynb)**
+
+- Probablistic classifier. Operates under the assumption that features are independent. 
+- Several different varieties: gaussian, multinomial, binomial.
+
+**Relevant Vector Machine**
+
+**Bayesian Networks**
+
+### Random Forest and Ensemble Learning
+
+**Decision Tree Learning**
+
+**Bootstrap Aggregating (Tree Bagging)**
+
+**Random Forests (Random Subspace Method)**
+
 ### Support Vector Machines
 
 These are supervised learning models useful for classification. They view each data point as a p-dimensional vector and are curious whether we can seperate these points into a (p-1)-dimensional hyperplane. 
@@ -39,23 +60,7 @@ These are supervised learning models useful for classification. They view each d
 
 **Non-linear SVM with Gaussian Radial Basis Kernel Trick**
 
-**Support Vector Clustering (SVC)**
-
-### Bayesian Inference
-
-This is a statistical approach that uses Bayes theorem to get predictions from data. 
-
-**Naive Bayes Classifier**
-
-**Relevant Vector Machine**
-
-### Random Forest
-
-**Decision Tree Learning**
-
-**Bootstrap Aggregating (Tree Bagging)**
-
-**Random Forests (Random Subspace Method)**
+**Support Vector Clustering (SVC)****
 
 ### Clustering
 
