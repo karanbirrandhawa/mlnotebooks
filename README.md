@@ -25,6 +25,9 @@ Neural networks
 
 **Recurrent Neural Network**
 
+* [Recurrent Neural Network Language Models](NeuralNetworks/notebooks/RNN_language_model.ipynb)
+* Really useful for problems in which training data has recognizable sequences
+
 **Restricted Boltzmann Machine**
 
 ### Bayesian Inference and Networks
@@ -100,5 +103,6 @@ Unsupervised learning isn't covered to nearly as much depth as I would like here
 
 ### TODO
 
+- Finish all implementations 
 - Add more content to the readme 
 - Do some general purpose projects that put the techniques above into action
